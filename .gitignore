@@ -32,13 +32,16 @@ MANIFEST
 .DS_Store
 *.un~
 *.md~
+*.py~
 *.swp
 .gitignore~
 ..gitignore.un~
 *_NAMES.txt
 config.py
+config2.py
 API_practice.ipynb
 random_numbers.ipynb
+Google_Nearby_Search.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
